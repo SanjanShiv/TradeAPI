@@ -6,3 +6,4 @@ google-generativeai
 duckduckgo-search
 slowapi
 python-dotenv
+httpx
